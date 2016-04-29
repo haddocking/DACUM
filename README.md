@@ -32,6 +32,6 @@ The Database of binding Affinity Change Upon Mutations in protein complexes
 | EMSA         | Electrophoretic Mobility Shift Assay       |
 
 ## Citation
-Cunliang Geng, Anna Vangone and Alexandre M.J.J. Bonvin, Exploring the interplay between experimental methods and the performance of predictors of binding affinity change upon mutations in protein complexes. 2016, To be submitted.
+Cunliang Geng, Anna Vangone and Alexandre M.J.J. Bonvin, Exploring the interplay between experimental methods and the performance of predictors of binding affinity change upon mutations in protein complexes. 2016, Submitted.
 
 
