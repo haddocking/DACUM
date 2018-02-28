@@ -81,10 +81,11 @@ The DACUM is a cleaned subset of the SKEMPI database (Moal and Fernández-Recio,
 | EMSA         | Electrophoretic Mobility Shift Assay       |
 
 ## Citation
-Cunliang Geng, Anna Vangone and Alexandre M.J.J. Bonvin, Exploring the interplay between experimental methods and the performance of predictors of binding affinity change upon mutations in protein complexes. 2016. In press.
+Cunliang Geng, Anna Vangone and Alexandre M.J.J. Bonvin, [Exploring the interplay between experimental methods and the performance of predictors of binding affinity change upon mutations in protein complexes. ][1] _Protein Engineering, Design, and Selection_, 29, 291-299 (2016).
 
 
 ## Reference
 - Moal, I. H. & Fernández-Recio, J. SKEMPI: a Structural Kinetic and Energetic database of Mutant Protein Interactions and its use in empirical models. Bioinformatics 28, 2600–2607 (2012).
 - Levy, E. D. A Simple Definition of Structural Regions in Proteins and Its Use in Analyzing Interface Evolution. Journal of Molecular Biology 403, 660–670 (2010).
 
+[1]: https://doi.org/10.1093/protein/gzw020
